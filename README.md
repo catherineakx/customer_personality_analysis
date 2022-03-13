@@ -20,6 +20,69 @@ To improve revenue, SweetTreats aims to address the following issues:
 
 ---
 
+### Conclusion
+
+By looking at the purchasing habits and personal traits, the key characteristics of each customer segment and the respective marketing campaigns that can be implemented include: 
+
+
+- Cluster 0: 
+    - Low income and low spending - likely to be quite frugal and cautious of their spending
+    - React less positively to campaigns but snag up deals 
+    - Has a mixture of family who have kids and no kids, and family size of 1 up to 6
+    - **Proposal: Marketing campaigns need to feature special deals / promotions with great discounts on frequently purchased items, so that customers can attain large amount of savings; campaigns can be done in-store, need not be online**
+
+
+- Cluster 1: 
+    - Low-to-mid income but mid spending 
+    - React less positively to campaigns but snag up deals 
+    - Has a mixture of family who have kids and no kids, and family size of 1 up to 6
+    - **Proposal: Marketing campaigns need to feature special deals / promotions with great discounts on frequently purchased items (especially basic necessities), so that customers can attain large amount of savings; campaigns can be done in-store, need not be online**
+
+
+- Cluster 2: 
+    - Low income and low spending - likely to be quite frugal and cautious of their spending
+    - React less positively to campaigns but snag up deals 
+    - May not have kids, and family size of 1 up to 4
+    - **Proposal: Marketing campaigns need to feature special deals / promotions with great discounts on frequently purchased items (especially basic necessities), so that customers can attain large amount of savings; campaigns can be done in-store, need not be online**
+
+
+- Cluster 3:
+    - High income and high spending 
+    - React positively to campaigns, but do not snag up deals
+    - Most may have kids and family size of 2 up to 4
+    - **Proposal: Marketing campaigns should feature unique items that are only available to the retailer + are on a higher price point, since this group of customers has a higher purchasing propensity which makes them more adventurous to purchase new items; campaigns should be done online first to garner interest**
+    
+    
+- Cluster 4: 
+    - Low-to-mid income and low-to-mid spending 
+    - React less positively to campaigns but snag up deals 
+    - May not have kids, and family size of 2 up to 4
+    - **Proposal: Marketing campaigns need to feature special deals / promotions with great discounts on frequently purchased items (especially basic necessities), so that customers can attain large amount of savings; campaigns can be done in-store, need not be online**
+
+
+- Cluster 5:
+    - High income and mid-to-high spending 
+    - React positively to campaigns, but do not snag up deals
+    - Most may have kids and family size of 2, up to 4
+    - **Proposal: Marketing campaigns should feature unique items that are only available to the retailer + are on a higher price point, since this group of customers has a higher purchasing propensity which makes them more adventurous to purchase new items; campaigns should be done online first to garner interest**
+    
+    
+- Cluster 6:
+    - Mid income and mid spending 
+    - React less positively to campaigns; do not necessarily snag up deals
+    - Most may not have kids and family size of 1 up to 2 
+    - **Proposal: Marketing campaigns should feature unique items that are only available to the retailer + are on a mid-to-high price point, since this group of customers has a mid purchasing propensity and are likely more adventurous to purchase new items; campaigns can be done in-store, need not be online**    
+    
+    
+- Cluster 7:
+    - Mid income and mid spending 
+    - React less positively to campaigns; do not necessarily snag up deals
+    - Most may not have kids and family size of 1 up to 2 
+    - **Proposal: Marketing campaigns should feature unique items that are only available to the retailer + are on a mid-to-high price point, since this group of customers has a mid purchasing propensity and are likely more adventurous to purchase new items; campaigns can be done in-store, need not be online** 
+
+
+---
+
 ### Python Library Used
 * Pandas
 * Numpy

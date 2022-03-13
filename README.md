@@ -90,3 +90,5 @@ By looking at the purchasing habits and personal traits, the key characteristics
 * Matplotlib
 * Sklearn
 * Datetime
+* Statsmodel
+* Yellowbrick
